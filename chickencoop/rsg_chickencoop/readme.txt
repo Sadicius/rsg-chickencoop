@@ -31,7 +31,7 @@ The Chicken Coop Egg Gathering Script
 - This script was developed by [RMS_dnb].
 
 ## License
-This script is open-source and available under the [License Name] license. See the [LICENSE](LICENSE) file for details.
+This script is open-source 
 
 ## Contributing
 If you'd like to contribute to this project, please fork the repository and create a pull request. We welcome contributions from the community.
